@@ -20,6 +20,15 @@
   <li> 📝 <a href="https://patel999jay.github.io/files/cv.pdf">Resume</a></li>
 </samp></ul>  
 
+<h3><samp>Languages and Tools:</samp></h3>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <!-- <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
@@ -29,7 +38,7 @@
   <a href="mailto:patel999jay@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>   -->
 
-<hr>
+<!-- <hr>
 <h3 align='center'> 🔭  I’m currently working and learning ...</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -39,7 +48,7 @@
   <img src="https://img.shields.io/badge/MATLAB-FileExchange-orange.svg?&style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/4728035c35302af7a472eba8858f41efb4e2d02b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e642d6373732532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" />&nbsp;&nbsp;
 </p>
-<hr>
+<hr> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats)
