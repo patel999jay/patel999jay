@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=patel999jay&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=patel999jay&repo=github-readme-stats)](https://github.com/patel999jay/github-readme-stats)
 
 <!--
 **patel999jay/patel999jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
