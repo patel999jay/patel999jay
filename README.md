@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
 
 <!--
