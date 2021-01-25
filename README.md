@@ -1,9 +1,10 @@
-## नमस्ते 🙏
+<h1 align='center'> नमस्ते 🙏 </h1>
 
 [![](https://img.shields.io/badge/LinkedIn-patel999jay-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/patel999jay/)
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
 [![](https://img.shields.io/badge/Telegram-patel999jay-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 
+ 
 <p align='center'>
  <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p>
 
