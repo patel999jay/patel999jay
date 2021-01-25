@@ -6,8 +6,8 @@
 
  
 <p align='center'>
-<!--  <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p> -->
- <a href="https://github.com/patel999jay/patel999jay/blob/main/SOFAR_ray_trace.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/SOFAR_ray_trace.gif" width="308" height="190" /></a></p>
+ <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="408" height="250" /></a></p>
+
 
 <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
