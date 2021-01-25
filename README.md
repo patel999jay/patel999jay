@@ -8,8 +8,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
 
  <!-- </a> -->
-<p align='center'>
- |<a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" display="inline"/></a>|<samp>I'm third year PhD student of Electrical & Computer Engineering at the Dalhousie ISL Lab. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. I leads the Underwater Robotic group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
+<!-- <p align='center'> -->
+| ------ | ------ |
+ |<a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" display="inline"/></a>|<p align='center'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. I leads the Underwater Robotic group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>|
+<!-- </p> -->
 
 <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
