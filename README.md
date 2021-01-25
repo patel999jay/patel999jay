@@ -1,4 +1,4 @@
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=Gradient)
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
