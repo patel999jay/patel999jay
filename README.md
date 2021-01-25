@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=pateel999jay)](https://github.com/anuraghazra/github-readme-stats)
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **patel999jay/patel999jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
