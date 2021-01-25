@@ -1,4 +1,4 @@
-![ so cool!](https://github.com/patel999jay/patel999jay/blob/main/wave1.svg)
+![so cool!](https://github.com/patel999jay/patel999jay/blob/main/upperwave.svg)
 
 <h1 align='center'> नमस्ते 🙏 </h1>
 
