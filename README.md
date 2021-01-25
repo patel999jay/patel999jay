@@ -6,14 +6,15 @@
 
  
 <p align='center'>
- <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p>
+<!--  <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p> -->
+ <a href="https://github.com/patel999jay/patel999jay/blob/main/SOFAR_ray_trace.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p>
 
-<h3  align='center'>📬 Find me around the web 🌎 </h3>
+<h3 align='center'>📬 Find me around the web 🌎 </h3>
 
 <p align='center'>
   <a href="https://patel999jay.github.io/"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/patel999jay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:patel999jay@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:patel999jay@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
 <hr>
