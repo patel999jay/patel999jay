@@ -8,15 +8,23 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
 
 <img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif?raw=true" width="308" height="260" />
-<p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. I leads the Underwater Robotic group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
+<p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀 from India. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
 
-<h3 align='center'>📬 Find me around the web 🌎 </h3>
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Python; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/jay_patel3233);
+- 📝[Resume](https://patel999jay.github.io/files/cv.pdf)
+
+<!-- <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
 <p align='center'>
   <a href="https://patel999jay.github.io/"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&logo=Portfolio&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/patel999jay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:patel999jay@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>  
+</p>   -->
 
 <hr>
 <h3 align='center'> 🔭  I’m currently working and learning ...</h3>
