@@ -1,6 +1,6 @@
 ![so cool!](https://github.com/patel999jay/patel999jay/blob/main/upperwave.svg)
 
-<h1 align='center'> नमस्ते 🙏 </h1>
+<!-- <h1 align='center'> नमस्ते 🙏 </h1> -->
 
 [![](https://img.shields.io/badge/LinkedIn-patel999jay-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/patel999jay/)
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
@@ -11,6 +11,7 @@
 <p align='center'>
  <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="408" height="250" /></a></p>
 
+<p align='center'> <samp>I'm third year PhD student of Electrical & Computer Engineering at the Dalhousie ISL Lab. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. I leads the Underwater Robotic group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
 
 <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
