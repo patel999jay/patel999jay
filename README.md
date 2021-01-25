@@ -4,7 +4,8 @@
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
 [![](https://img.shields.io/badge/Telegram-patel999jay-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 
-![](https://github.com/patel999jay/patel999jay/blob/main/Developer.gif)
+<p align='center'>
+ <a href="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif"><img src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif" width="308" height="190" /></a></p>
 
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 
@@ -28,6 +29,8 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+
+![](https://github.com/patel999jay/patel999jay/blob/main/Developer.gif)
 
 [![](https://img.shields.io/website?url=https%3A%2F%2Fpatel999jay.github.io%2F-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://patel999jay.github.io/)
 
