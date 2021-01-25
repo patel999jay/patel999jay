@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
 [![](https://img.shields.io/badge/Telegram-patel999jay-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 
-![](https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif)
+![](https://github.com/patel999jay/patel999jay/blob/main/Developer.gif)
 
 <h3  align='center'>📬 Find me around the web 🌎 </h3>
 
