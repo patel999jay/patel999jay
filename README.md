@@ -8,17 +8,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
 
 <img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif?raw=true" width="308" height="260" />
-<p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀 from India. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀 from India. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
 
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jay_patel3233](https://twitter.com/jay_patel3233);
-- 📝[Resume](https://patel999jay.github.io/files/cv.pdf)
+<h3><samp> Talking about Personal Stuffs:</samp></h3>
+<ul><samp>
+  <li> 👨🏽‍💻 I’m currently working on something cool :wink:;</li>
+  <li> 🌱 I’m currently learning Python; </li>
+  <li> 💬 Ask me about anything, I am happy to help;</li>
+  <li> 📫 How to reach me: <a href="https://twitter.com/jay_patel3233">@jay_patel3233</a>;</li>
+  <li> 📝 <a href="https://patel999jay.github.io/files/cv.pdf">Resume</a></li>
+</samp></ul>  
 
-</samp></p>
+
 <!-- <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
 <p align='center'>
