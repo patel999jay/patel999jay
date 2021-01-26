@@ -1,4 +1,4 @@
-![so cool!](https://github.com/patel999jay/patel999jay/blob/main/upperwave.svg)
+![so cool!](https://github.com/patel999jay/patel999jay/blob/main/image/upperwave.svg)
 
 <!-- <h1 align='center'> नमस्ते 🙏 </h1> -->
 [![](https://img.shields.io/badge/Portfolio-https://patel999jay.github.io/-blue?logo=Portfolio&logoColor=blue&labelColor=black)](https://patel999jay.github.io/)
@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Telegram-patel999jay-green?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
 
-<img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/Developer.gif?raw=true" width="308" height="260" />
+<img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/image/Developer.gif?raw=true" width="308" height="260" />
 <p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀 from India. My research interests include electronics, communications systems, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
 <div align="justify">
 <h3><samp>Languages and Tools:</samp></h3>
@@ -55,8 +55,7 @@
 [![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patel999jay)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
-
+![so cool!](https://github.com/patel999jay/patel999jay/blob/main/image/wave.svg)
 
 
 
