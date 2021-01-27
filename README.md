@@ -26,7 +26,7 @@
   <li> 👨🏽‍💻 I’m currently working on something cool :wink:;</li>
   <li> 🌱 I’m currently learning Python; </li>
   <li> 💬 Ask me about anything, I am happy to help;</li>
-  <li> 📫 How to reach me: <a href="https://twitter.com/jay_patel3233">@jay_patel3233</a>;</li>
+  <li> 📫 How to reach me: <a href="https://twitter.com/jay_patel888">@jay_patel888</a>;</li>
   <li> 📝 <a href="https://patel999jay.github.io/files/cv.pdf">Resume</a></li>
 </samp></ul>  
 
