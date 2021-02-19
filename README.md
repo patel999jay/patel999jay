@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
 [![](https://img.shields.io/badge/Telegram-patel999jay-green?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
-<!--[![](https://img.shields.io/stackexchange/stackoverflow/r/5815484?style=flat-square&logoColor=Red&labelColor=black)](https://stackoverflow.com/users/5815484/jay-patel)-->
+[![](https://img.shields.io/stackexchange/stackoverflow/r/5815484?&style=flat-square&logoColor=Red&labelColor=black)](https://stackoverflow.com/users/5815484/jay-patel)
 
 
 <img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/image/Developer.gif?raw=true" width="308" height="260" />
