@@ -1,12 +1,12 @@
 ![so cool!](https://github.com/patel999jay/patel999jay/blob/main/image/upperwave.svg)
 
-<!-- <h1 align='center'> नमस्ते 🙏 </h1> -->
+<!-- <h1 align='center'> नमस्ते 🙏 </h1> 
 [![](https://img.shields.io/badge/Portfolio-https://patel999jay.github.io/-blue?logo=Portfolio&logoColor=blue&labelColor=black)](https://patel999jay.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-patel999jay-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/patel999jay/)
 [![](https://img.shields.io/badge/Gmail-patel999jay@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:patel999jay@gmail.com)
 [![](https://img.shields.io/badge/Telegram-patel999jay-green?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/patel999jay)
 ![](https://visitor-badge.glitch.me/badge?page_id=patel999jay.patel999jay)
-[![](https://img.shields.io/stackexchange/stackoverflow/r/5815484?style=flat-square&logoColor=Red&labelColor=black)](https://stackoverflow.com/users/5815484/jay-patel)
+<!--[![](https://img.shields.io/stackexchange/stackoverflow/r/5815484?&style=flat-square&logoColor=Red&labelColor=black)](https://stackoverflow.com/users/5815484/jay-patel)-->
 
 
 <img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/image/Developer.gif?raw=true" width="308" height="260" />
