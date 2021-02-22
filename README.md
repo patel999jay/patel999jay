@@ -32,6 +32,9 @@
   <li> 📝 <a href="https://patel999jay.github.io/files/cv.pdf">Resume</a></li>
 </samp></ul>  
 
+<!--<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>  -->
+
+<!-- <img src="https://embed.github.com/view/3d/patel999jay/patel999jay/blob/main/image/patel999jay-2020.stl">  -->
 
 <!-- <h3 align='center'>📬 Find me around the web 🌎 </h3>
 
