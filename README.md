@@ -10,7 +10,7 @@
 
 
 <img align="right" alt="GIF" src="https://github.com/patel999jay/patel999jay/blob/main/image/Developer.gif?raw=true" width="308" height="260" />
-<p align='justify'><samp>I'm third year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀. My research interests include electronics, communications systems, DSP, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
+<p align='justify'><samp>I'm forth year PhD student of Electrical and Computer Engineering at the Dalhousie ISL Lab 🚀. My research interests include electronics, communications systems, DSP, distributed underwater robotics, mobile computing and programmable matter. Also had a fond of Underwater Robotics, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</samp></p>
 <div align="justify">
 <h3><samp>Languages and Tools:</samp></h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
