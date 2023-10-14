@@ -58,7 +58,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay) 
 [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay)
-<!-- [![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=compact)](https://github.com/patel999jay/github-readme-stats) -->
+[![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=compact)](https://github.com/patel999jay/github-readme-stats) 
 
 <!-- <img align='left' src="https://wakatime.com/share/@patel999jay/b4dcdd6a-1898-4aa3-a8dc-3e4dd0f3fb58.svg" width="808" height="420" /> -->
 
