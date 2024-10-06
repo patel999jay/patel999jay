@@ -14,6 +14,8 @@
 <div align="justify">
 <h3><samp>Languages and Tools:</samp></h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/648d7e4a90d7495c9f7b3e0e895abccb5d43438c/topics/dockerfile/dockerfile.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
@@ -56,11 +58,12 @@
 </p>     (https://github.com/anuraghazra/github-readme-stats) 
 <hr> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=5&layout=compact&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay) 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay)
-[![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=compact)](https://github.com/patel999jay/github-readme-stats) 
 
-<!-- <img align='left' src="https://wakatime.com/share/@patel999jay/b4dcdd6a-1898-4aa3-a8dc-3e4dd0f3fb58.svg" width="808" height="420" /> -->
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=patel999jay&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay)
+<img style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=patel999jay&theme=radical" alt="patel999jay" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay) 
+[![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/patel999jay/github-readme-stats) 
+
 
 ![so cool!](https://github.com/patel999jay/patel999jay/blob/main/image/wave.svg)
 
