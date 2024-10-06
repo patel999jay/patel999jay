@@ -65,10 +65,10 @@
 [![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/patel999jay/github-readme-stats) 
 
 <div style="width: 100%;" align="center">
-    <a target="_blank" rel="jay-patel" href="[https://patel999jay.github.io/](https://patel999jay.github.io/)">
+    <a target="_blank" rel="jay-patel" href="https://patel999jay.github.io/">
         <img src="https://img.shields.io/badge/@Jay-Patel-purple?logo=h&logoColor=white&style=for-the-badge" alt="patel999jay">
     </a>
-    <a target="_blank" rel="jay-patel" href="https://www.hannover.de">
+    <a target="_blank" rel="jay-patel" href="https://discoverhalifaxns.com/">
         <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpatel999jay&style=for-the-badge" />
     </a>
     <a target="_blank" rel="jay-patel" href="https://github.com/patel999jay?tab=followers">
