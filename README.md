@@ -64,6 +64,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patel999jay&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/patel999jay/patel999jay) 
 [![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@patel999jay&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/patel999jay/github-readme-stats) 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=patel999jay&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
 <div style="width: 100%;" align="center">
     <a target="_blank" rel="jay-patel" href="https://patel999jay.github.io/">
         <img src="https://img.shields.io/badge/@Jay-Patel-purple?logo=h&logoColor=white&style=for-the-badge" alt="patel999jay">
@@ -77,6 +81,12 @@
     <a target="_blank" rel="jay-patel" href="https://github.com/patel999jay">
         <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpatel999jay&style=for-the-badge" />
     </a>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/patel999jay/count.svg" alt="Visitor's Count" />
 </div>
 
 ![so cool!](https://github.com/patel999jay/patel999jay/blob/main/image/wave.svg)
